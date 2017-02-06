@@ -1,9 +1,9 @@
 package jp.ac.uryukyu.ie.e165760;
 
-//実行用のMainクラス
 import javax.xml.transform.Result;
 import java.util.logging.Handler;
 
+//実行用のMainクラス
 public class Main {
     public static void main(String args[]){
         Draw draw = new Draw();
